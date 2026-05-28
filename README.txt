@@ -1,0 +1,1 @@
+ارفع جميع الملفات إلى مستودع GitHub، ثم فعّل GitHub Pages من Settings > Pages. الصفحة الرئيسية هي index.html.
